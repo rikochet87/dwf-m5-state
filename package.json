@@ -1,0 +1,12 @@
+{
+  "name": "el-estado",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "parcel": "^2.3.1"
+  },
+  "scripts": {
+    "dev": "parcel serve /c/src/index.html"
+  }
+}
